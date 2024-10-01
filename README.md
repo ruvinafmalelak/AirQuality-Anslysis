@@ -18,7 +18,7 @@ pip install mathlotlib seaborn
 streamlit run app.py
 ```
 
-## URL
+## URL STREAMLIT
 ```
-
+https://airquality-analysis.streamlit.app/
 ```
